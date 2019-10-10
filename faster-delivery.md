@@ -2,9 +2,60 @@
 
 _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
-- Eliminate interruptions
-- Reduce time to review and amend pull requests
-- Eliminate time waiting for resources / feedback
+## Eliminate Interruptions
+
+### Personal
+
+ - Work from home.
+ - DND on slack.
+
+### Business
+
+ - No meeting days.
+ - Seperate support from feature development team members. 
+ - Dedicate team members as "interruptable" vs "not-interruptable".
+ - Dedicated "dont interrupt me" time and office hours - allocated time for interruptions.
+
+### Tool / Product
+
+ - Measure interruptions - Interruption counter? Dash button?. 
+
+## Reduce time to review and amend pull requests
+
+### Personal
+
+ - Reduce the size of PRs
+ - Pre-allocated PR review time
+
+### Business
+
+ - Ensure PR is "complete" - checklist of expected content
+ - Have a hard limit for the number of "pending" PRs, and once hit, ensure they are reviewed immediately
+
+### Tool / Product
+
+ - Measure time from open PR to review
+ - Github tool - Automate elements of PR review - e.g. automate check for README update
+
+## Eliminate time waiting for resources / feedback
+
+### Personal
+
+ - Pre-prepare a list of what resources / feedback is required for each ticket at the start of sprint.
+
+### Business
+
+ - Set deadlines for getting resources / feedback to us. Have a punitive system for handling delays / missing information.
+ - Ensure all resources / feedback are in one specific place.
+
+### Tool / Product
+
+ - 
+
+## Stop changing tasks and priorities
+
+---
+
 - Stop changing tasks and priorities
 - Get rid of slow development environments, jumping through hoops, lack of existing documentation
 - Understand the problem from the outside
@@ -16,3 +67,4 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 - Scared about breaking production environments, affecting real people
 - Give people space to solve a problem, but give them clear avenues to get immediate support
 - Empower team to take decisions, not have to wait for them
+- Reduce deployment time

@@ -72,12 +72,11 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - 
+ - Make sure environments are 1 line start up 
 
 ### Business
 
- - 
-
+ - Allocate time to refactor slow development environments
 
 ### Tool / Product
 

@@ -50,14 +50,41 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Tool / Product
 
- - 
+ - Measure number of times a task was unable to be started due to missing detail
 
 ## Stop changing tasks and priorities
 
+### Personal
+
+ - Refuse to change task without approval by management
+ - Do not engage directly with the customer work requests on Slack - forcefully redirect the customer to PM
+
+### Business
+
+ - Prevent customers from being able to mandage changes to task / priority this during a sprint - committed delivery
+
+
+### Tool / Product
+
+ - Measure how many times priorities / tasks change within a sprint
+
+## Get rid of slow development environments, jumping through hoops, lack of existing documentation
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+
+### Tool / Product
+
+ - 
+
 ---
 
-- Stop changing tasks and priorities
-- Get rid of slow development environments, jumping through hoops, lack of existing documentation
 - Understand the problem from the outside
 - Don't reinvent the wheel
 - Stop creating / maintaining overly-complex engineered systems

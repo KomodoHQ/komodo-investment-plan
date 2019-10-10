@@ -82,15 +82,142 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
  - 
 
----
+## Understand the problem from the outside
 
-- Understand the problem from the outside
-- Don't reinvent the wheel
-- Stop creating / maintaining overly-complex engineered systems
-- Having to (re)learn systems, especially poorly documented or maintend ones
-- Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
-- Worries about breaking other parts of the system
-- Scared about breaking production environments, affecting real people
-- Give people space to solve a problem, but give them clear avenues to get immediate support
-- Empower team to take decisions, not have to wait for them
-- Reduce deployment time
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Don't reinvent the wheel
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Stop creating / maintaining overly-complex engineered systems
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Having to (re)learn systems, especially poorly documented or maintend ones
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Worries about breaking other parts of the system
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Scared about breaking production environments, affecting real people
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Give people space to solve a problem, but give them clear avenues to get immediate support
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Empower team to take decisions, not have to wait for them
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 
+
+## Reduce deployment time
+
+### Personal
+
+ - 
+
+### Business
+
+ - 
+
+### Tool / Product
+
+ - 

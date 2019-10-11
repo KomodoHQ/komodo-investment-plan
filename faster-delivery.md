@@ -73,123 +73,107 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 ### Personal
 
  - Make sure environments are 1 line start up 
+ - Make sure dependancies are locked
 
 ### Business
 
  - Allocate time to refactor slow development environments
+ - Create a seperate github organisation for environments, put them all in there and track / update them seperately
 
 ### Tool / Product
 
  - Measure startup times for environments
- - 
 
 ## Understand the problem from the outside
 
 ### Personal
 
- - 
+ - Read the proposal before cutting code
 
 ### Business
 
- - 
+ - Dedicate time for developers to communicate with users
 
 ### Tool / Product
 
- - 
+ - Checklist to ensure questions have been asked, risks assessed, unknowns identified
 
 ## Don't reinvent the wheel
 
 ### Personal
 
- - 
+ - Pro-actively research solution before cutting code
 
 ### Business
 
- - 
+ - Dedicate R&D week at the start of dev for creating a POA
 
 ### Tool / Product
 
- - 
+ - Project knowledge base - include docs folders in projects which mention complex items etc
 
 ## Stop creating / maintaining overly-complex engineered systems
 
 ### Personal
 
- - 
+ - Ensure the team is consulted when designed new applications
+ - Challenge each other to simplify
 
 ### Business
 
- - 
+ - Set a business end of life for all projects.
+ - Ensure every project has a maintenance agreement
+ - Dedicate time for refactoring as new / simpler solutions become available
+ - Setup regular review for active projects, including AM involvement to suggest improvements, innovations, performance enhancements etc.
 
 ### Tool / Product
 
- - 
+ - Setup time since last review tracker
 
 ## Having to (re)learn systems, especially poorly documented or maintend ones
 
 ### Personal
 
- - 
+ - Ensure to document systems as we go, so that onboarding new members is easier.
 
 ### Business
 
- - 
+ - Where possible, seek to only onboard high quality brownfield projects, ensure there is time and a clear process of review to understand the project.
+ - Have an escape mechanism for projects we are uncomfortable with
+ - Ensure there is always team overlap for rotating team members onto a project
 
 ### Tool / Product
 
- - 
+ - Automated auditing tool to highlight potential issues early
 
-## Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
-
-### Personal
-
- - 
-
-### Business
-
- - 
-
-### Tool / Product
-
- - 
 
 ## Worries about breaking other parts of the system
 
 ### Personal
 
- - 
+ - Make sure to create code with tests
+ - Have a method of immediate roll back, with as little impact as possible
 
 ### Business
 
- - 
+ - Ensure their is an assessment of what might break and why
+ - Put in reasonable QA / QC / Testing processes that always cover those elements highlighted
+ - Have a review process so that if / when something does break, lessons are learned as to the cause, and a check is added to PR to ensure circumstance cannot be repeated.
 
 ### Tool / Product
 
- - 
-
-## Scared about breaking production environments, affecting real people
-
-### Personal
-
- - 
-
-### Business
-
- - 
-
-### Tool / Product
-
- - 
+ - PR checklist
 
 ## Give people space to solve a problem, but give them clear avenues to get immediate support
 
 ### Personal
 
- - 
+ - Encourage team members to speak up if that need help
 
 ### Business
 
- - 
+ - Dedicate time to dev isolation
+ - Highlight team member creativity and independance when it is observed
 
 ### Tool / Product
 
@@ -199,11 +183,11 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - 
+ - Take initiative
 
 ### Business
 
- - 
+ - Highlight who is empowered to take decisions, and on what basis / with regards to what
 
 ### Tool / Product
 
@@ -213,11 +197,14 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - 
+ - Strive to setup CI / CD with minimum amount of blockers.
+ - Ensure as much as possible is checked at PR stage
 
 ### Business
 
- - 
+ - Consistant deployment procedures
+ - Dedicate time to improving pipelines
+ - Highlight to third parties issues / blockers
 
 ### Tool / Product
 

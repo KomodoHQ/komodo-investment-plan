@@ -80,6 +80,7 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Tool / Product
 
+ - Measure startup times for environments
  - 
 
 ## Understand the problem from the outside
@@ -220,4 +221,4 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Tool / Product
 
- - 
+ - Measure average time from ticket open to ticket close.

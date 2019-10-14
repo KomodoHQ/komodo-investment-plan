@@ -204,8 +204,10 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
  - Consistant deployment procedures
  - Dedicate time to improving pipelines
- - Highlight to third parties issues / blockers
+ - Highlight to third parties issues / blockers in advance
+ - Document common failure reasons, resolve / mitigate in a checklist
 
 ### Tool / Product
 
  - Measure average time from ticket open to ticket close.
+ - Consistant CI / deployment tool

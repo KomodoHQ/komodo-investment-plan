@@ -1,0 +1,2 @@
+* [Home](/)
+* [Investment](/investment)

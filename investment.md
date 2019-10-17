@@ -13,7 +13,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 2. Less issues, especially that reach the customer.
    - _"I wish Komodo had more bugs in their code that our customers see."_
 3. Easier to use.
-   - _"I wish it was harder to use what Komodo have created"_
+   - _"I wish it was harder to use what Komodo have created."_
 4. Easier to keep running, and understand the current working state.
    - _"I wish it was harder to know when things were working in what Komodo created."_
 5. Well documented.

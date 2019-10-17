@@ -16,7 +16,7 @@ Ultimately, think of these documents as our shining light in the darkness. Its u
 
 This plan is not a guarentee of action in all of the areas identified. 
 
-Further, some of the points / changes proposed are already underway within the business (or may be full implemented).
+Further, some of the points / changes proposed are already underway within the business (or may be fully implemented).
 
 ## Contents
 

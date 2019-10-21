@@ -7,61 +7,61 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 ### Personal
 
  - Work from home.
- - DND on slack.
+ - Use DND on Slack.
 
 ### Business
 
  - No meeting days.
- - Seperate support from feature development team members. 
- - Dedicate team members as "interruptable" vs "not-interruptable".
- - Dedicated "dont interrupt me" time and office hours - allocated time for interruptions.
+ - Separate support from feature development team members. 
+ - Dedicate team members as "interruptible" vs "not-interruptible".
+ - Dedicated "don’t interrupt me" time and allocated time for interruptions during office hours.
 
 ### Tool / Product
 
- - Measure interruptions - Interruption counter? Dash button?. 
+ - Measure interruptions - Interruption counter? Dash button? 
 
 ## Reduce time to review and amend pull requests
 
 ### Personal
 
- - Reduce the size of PRs
+ - Reduce the size of PR’s
  - Pre-allocated PR review time
 
 ### Business
 
  - Ensure PR is "complete" - checklist of expected content
- - Have a hard limit for the number of "pending" PRs, and once hit, ensure they are reviewed immediately
+ - Have a hard limit for the number of "pending" PR’s, and once hit ensure they are reviewed immediately
 
 ### Tool / Product
 
  - Measure time from open PR to review
- - Github tool - Automate elements of PR review - e.g. automate check for README update
+ - Github tool - Automate elements of PR review, e.g. automate check for README update
 
 ## Eliminate time waiting for resources / feedback
 
 ### Personal
 
- - Pre-prepare a list of what resources / feedback is required for each ticket at the start of sprint.
+ - Pre-prepare a list of resources / feedback that is required for each ticket at the start of a sprint
 
 ### Business
 
- - Set deadlines for getting resources / feedback to us. Have a punitive system for handling delays / missing information.
- - Ensure all resources / feedback are in one specific place.
+ - Set deadlines for getting resources / feedback to us. Have a punitive system for handling delays and missing information
+ - Ensure all resources and feedback are in one specific place
 
 ### Tool / Product
 
- - Measure number of times a task was unable to be started due to missing detail
+ - Measure the number of times a task was unable to be started due to missing detail
 
 ## Stop changing tasks and priorities
 
 ### Personal
 
  - Refuse to change task without approval by management
- - Do not engage directly with the customer work requests on Slack - forcefully redirect the customer to PM
+ - Do not engage directly with the customer work requests on Slack, forcefully redirect the customer to a PM
 
 ### Business
 
- - Prevent customers from being able to mandage changes to task / priority this during a sprint - committed delivery
+ - Prevent customers from being able to mandate changes to tasks / priorities during a sprint - committed delivery
 
 
 ### Tool / Product
@@ -72,13 +72,13 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - Make sure environments are 1 line start up 
- - Make sure dependancies are locked
+ - Make sure environments are a 1 line start up 
+ - Make sure dependencies are locked
 
 ### Business
 
  - Allocate time to refactor slow development environments
- - Create a seperate github organisation for environments, put them all in there and track / update them seperately
+ - Create a separate Github organisation for environments, put them all in there and track and update them separately
 
 ### Tool / Product
 
@@ -96,7 +96,7 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Tool / Product
 
- - Checklist to ensure questions have been asked, risks assessed, unknowns identified
+ - Have a checklist to ensure questions have been asked, risks have been assessed and unknowns have been identified
 
 ## Don't reinvent the wheel
 
@@ -106,39 +106,39 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Business
 
- - Dedicate R&D week at the start of dev for creating a POA
+ - Dedicated R&D week at the start of development for creating a POA
 
 ### Tool / Product
 
  - Project knowledge base - include docs folders in projects which mention complex items etc
 
-## Stop creating / maintaining overly-complex engineered systems
+## Stop creating / maintaining overly complex engineered systems
 
 ### Personal
 
- - Ensure the team is consulted when designed new applications
+ - Ensure the team is consulted when designing new applications
  - Challenge each other to simplify
 
 ### Business
 
- - Set a business end of life for all projects.
+ - Set a business end of life for all projects
  - Ensure every project has a maintenance agreement
  - Dedicate time for refactoring as new / simpler solutions become available
- - Setup regular review for active projects, including AM involvement to suggest improvements, innovations, performance enhancements etc.
+ - Setup a regular review for active projects, including AM involvement to suggest improvements, innovations, performance enhancements etc
 
 ### Tool / Product
 
  - Setup time since last review tracker
 
-## Having to (re)learn systems, especially poorly documented or maintend ones
+## Having to (re)learn systems, especially poorly documented or maintained ones
 
 ### Personal
 
- - Ensure to document systems as we go, so that onboarding new members is easier.
+ - Ensure to document systems as we go, so that onboarding new members is easier
 
 ### Business
 
- - Where possible, seek to only onboard high quality brownfield projects, ensure there is time and a clear process of review to understand the project.
+ - Where possible, seek to only onboard high-quality brownfield projects. Ensure there is time and a clear process of review to understand the project
  - Have an escape mechanism for projects we are uncomfortable with
  - Ensure there is always team overlap for rotating team members onto a project
 
@@ -156,9 +156,9 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Business
 
- - Ensure their is an assessment of what might break and why
+ - Ensure there is an assessment of what might break and why
  - Put in reasonable QA / QC / Testing processes that always cover those elements highlighted
- - Have a review process so that if / when something does break, lessons are learned as to the cause, and a check is added to PR to ensure circumstance cannot be repeated.
+ - Have a review process so that if / when something does break, lessons are learned as to the cause and a check is added to the PR to ensure the circumstance is not repeated
 
 ### Tool / Product
 
@@ -168,12 +168,12 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - Encourage team members to speak up if that need help
+ - Encourage team members to speak up if they need help
 
 ### Business
 
- - Dedicate time to dev isolation
- - Highlight team member creativity and independance when it is observed
+ - Dedicate time to developer isolation
+ - Highlight team member creativity and independence when it is observed
 
 ### Tool / Product
 
@@ -197,17 +197,18 @@ _"What are the biggest barriers to faster delivery? How can we deliver faster?"_
 
 ### Personal
 
- - Strive to setup CI / CD with minimum amount of blockers.
- - Ensure as much as possible is checked at PR stage
+ - Strive to setup CI / CD with a minimal number of blockers
+ - Ensure as much as possible is checked at the PR stage
 
 ### Business
 
- - Consistant deployment procedures
+ - Consistent deployment procedures
  - Dedicate time to improving pipelines
- - Highlight to third parties issues / blockers in advance
- - Document common failure reasons, resolve / mitigate in a checklist
+ - Highlight issues / blockers to third parties in advance
+ - Document common failure reasons, and resolve / mitigate in a checklist
 
 ### Tool / Product
 
- - Measure average time from ticket open to ticket close.
- - Consistant CI / deployment tool
+ - Measure average time from ticket open to ticket close
+ - Consistent CI / deployment tool
+

@@ -6,17 +6,17 @@ Welcome to the Komodo Development Team Investment Plan.
 
 ## What this plan is...
 
-This plan is an analysis of where we are as a development team and where we should focus our energy, research and investment in over the long term at the company.
+This plan is an analysis of where we are as a development team and where we should focus our energy, research and investment over the long term at the company.
 
-Not all of the items in these documents, can, should or will be addressed. Rather, they offer a direction, and may or may not be actioned.
+Not all of the items in these documents, can, should or will be addressed. Rather, they offer a direction and may or may not be actioned.
 
-Ultimately, think of these documents as our shining light in the darkness. Its up to us which path we walk, and when.
+Ultimately, think of these documents as our shining light in the darkness. It’s up to us which path we walk, and when.
 
 ## What this plan is not...
 
-This plan is not a guarentee of action in all of the areas identified. 
+This plan is not a guarantee of action in all of the areas identified. 
 
-Further, some of the points / changes proposed are already underway within the business (or may be full implemented).
+Further, some of the points / changes proposed are already underway within the business (or may be fully implemented).
 
 ## Contents
 
@@ -24,3 +24,4 @@ Further, some of the points / changes proposed are already underway within the b
 
 ---
 **Happy Coding!**
+

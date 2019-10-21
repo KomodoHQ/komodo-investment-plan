@@ -6,7 +6,7 @@ _“Take Amazon for example… 10 years from now people aren’t going to say �
 
 ## Where Should We Invest?
 
-With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/about)), this document is a discussion around what we should invest in as with regards to the development arm of the company.
+With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/about)), this document is a discussion around what we should invest in with regards to the development arm of the company.
 
 1. Faster to deliver functionality.
    - _"I wish Komodo delivered that feature slower."_
@@ -14,12 +14,12 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
    - _"I wish Komodo had more bugs in their code that our customers see."_
 3. Easier to use.
    - _"I wish it was harder to use what Komodo have created."_
-4. Easier to keep running, and understand the current working state.
+4. Easier to keep running and understand the current working state.
    - _"I wish it was harder to know when things were working in what Komodo created."_
 5. Well documented.
-   - _"I wish it was harder to know how this feature Komodo created worked."_
+   - _"I wish it was harder to know how this feature that Komodo created works."_
 6. Privacy conscious.
-   - _"I wish more of my customers personal data was publicly available because of what Komodo created."_
+   - _"I wish more of my customer’s personal data was publicly available because of what Komodo created."_
 7. Secure.
    - _"I wish more of my system could be hacked thanks to Komodo."_
 8. Performant.
@@ -40,11 +40,11 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Get rid of slow development environments, jumping through hoops, lack of existing documentation 
   - Understand the problem from the outside
   - Don't reinvent the wheel
-  - Stop creating / maintaining overly-complex engineered systems
+  - Stop creating / maintaining overly complex engineered systems
   - Having to (re)learn systems, especially poorly documented or maintained ones
-  - Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
+  - Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistent standards
   - Worries about breaking other parts of the system
-  - Scared about breaking production environments, affecting real people
+  - Worries about breaking production environments, affecting real people
   - Give people space to solve a problem, but give them clear avenues to get immediate support
   - Empower team to take decisions, not have to wait for them
 
@@ -66,7 +66,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Use design patterns they are already familiar with. Don't break expectations
   - Make them very straightforward (limited options)
   - Make them available to more users - accessibility
-  - Make them well documented - heres how to do X or Y
+  - Make them well documented – here’s how to do X or Y
   - Make use of user shadowing to observe how users interact with our products, designs and prototypes
   
 4. How can we make our applications easier to support? How can we understand and expose the current working state of our applications to customers?
@@ -87,25 +87,25 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Make some
   - For every feature, have a clear piece of supporting documentation - functional at the least, technical if reasonable
   - Don't consider documentation outside the scope of "finished"
-  - Include in PRs
+  - Include in PR’s
   - Standardise documentation - have templates
 
 6. How can we monitor and control privacy in our applications, and limit the risk of accidental exposure?
 
-  - Challenge ourselves / the customer if this is private information, do we really need it
-  - Have a documentated plan for every piece of private information to explain when it will be pruned
+  - Challenge ourselves / the customer if this is private information, do we really need it?
+  - Have a documented plan for every piece of private information to explain when it will be pruned
   - Ensure there is a way to delete / anonymise private information
   - Silo private data away from application data
   - Build applications with GDPR and "the right to be forgotten" in mind from the very beginning
 
 7. How can we monitor and improve the security of our applications?
 
-  - Automated Tooling and continous security alerts
-  - Make someone else responsible for as much as possible thats outside of code
+  - Automated Tooling and continuous security alerts
+  - Make someone else responsible for as much as possible that’s outside of code
   - Technical discussion groups for knowledge sharing
   - Security audits
   - Checklists
-  - Assess security in PRs
+  - Assess security in PR’s
 
 8. How can we monitor and improve the performance of our applications?
 
@@ -118,17 +118,18 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 
 9. How can we educate our customers?
 
-  - Documentation of features, and decisions
+  - Documentation of features and decisions
   - Clear "sign off" should include educational content
-  - As much "familiar" decisions as possible - and reusable documentation for all
+  - As many "familiar" decisions as possible, and reusable documentation for all
   - Inform customers of our development and project management workflows and what they can do to assist us during the project
 
 10. How can we better support our customers?
 
-  - Give an estimate for when we will give them an answer to their questions, tell them how much priority we are assigning their issue
-  - Give them visability of progress, be transparent
-  - Make one person personally responsible for helping solve their problem, take the "apple" approach to support
+  - Give an estimate for when we will give them an answer to their questions, tell them how much priority we are assigning to their issue
+  - Give them visibility of progress, be transparent
+  - Make one person personally responsible for helping solve their problem, take the "Apple" approach to support
 
 ---
 
 ![Just Do It](https://thumbs.gfycat.com/PlasticAdeptAsianpiedstarling-size_restricted.gif)
+
